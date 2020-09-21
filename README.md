@@ -9,7 +9,6 @@ For this project, we have chosen two locations where both the SENSE and the EPA 
 
 In order to evaluate the performance of SENSE sensors, we will first clean all the datasets containing the measurements and then combine the two datasets (SENSE and EPA) at each location (DC, MD) into one. After that, we will plot a time series graph that helps us visualize the measurements taken by both sensors over time. 
 
-## Observations
+## Dashboard
 
-
-## Conclusion
+Link to R-shiny dashboard showing the SENSE and EPA sensor measurements over time:  https://ruthwik11.shinyapps.io/SENSE_Plots/
