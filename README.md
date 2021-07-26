@@ -1,7 +1,7 @@
 # UMD SENSE Sensor Performance Analysis
 
 ## Project Introduction
-<<<<<<< HEAD
+
 The purpose of this project is to evaluate the performance of air quality measuring sensors designed by UMD's SENSE. The PM 2.5 measurements taken by the SENSE's sensors will be compared with the corresponding measurements taken by EPA's sensors to evaluate the performance.  
 =======
 The main purpose of this project is to evaluate the performance of air quality measuring sensors designed by UMD's SENSE. The PM 2.5 measurements taken by the SENSE's sensors will be compared with the corresponding measurements taken by EPA's sensors to evaluate their accuracy.  
@@ -15,4 +15,4 @@ In order to evaluate the performance of SENSE sensors, we will first clean all t
 ## Dashboard
 
 Link to R-shiny dashboard showing the SENSE and EPA sensor measurements over time:  https://ruthwik11.shinyapps.io/SENSE_Plots/
->>>>>>> 5db36d6462a5d859d52e07067dd4ffca8812cfae
+
