@@ -3,7 +3,7 @@
 ## Project Introduction
 
 The purpose of this project is to evaluate the performance of air quality measuring sensors designed by UMD's SENSE. The PM 2.5 measurements taken by the SENSE's sensors will be compared with the corresponding measurements taken by EPA's sensors to evaluate the performance.  
-=======
+
 The main purpose of this project is to evaluate the performance of air quality measuring sensors designed by UMD's SENSE. The PM 2.5 measurements taken by the SENSE's sensors will be compared with the corresponding measurements taken by EPA's sensors to evaluate their accuracy.  
 
 For this project, we have chosen two locations where both the SENSE and the EPA sensors co-exist. The locations are DOEE, Washington, D.C. and Howard University, Beltsville, MD. The range of the data is from 06/01/2019 - 09/01/2019. 
